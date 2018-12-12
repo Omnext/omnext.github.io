@@ -1,12 +1,11 @@
 ---
 
 layout: post
-title:  "Create actions of system.Filedocument, system.Image"
-categories: Microflows
-prio: 3
-rulenumber: 22
-rulename: AvoidCreateFileDocOrImage
-ruleset: Security
+title:  "Avoid create file doc or image  "
+rulenumber: 5
+impact_prio: 3
+effort_prio: 1
+characteristic: Security
 
 ---
 

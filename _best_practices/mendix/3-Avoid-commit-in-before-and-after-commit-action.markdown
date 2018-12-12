@@ -1,12 +1,11 @@
 ---
 
 layout: post
-title:  "Before and after commit actions that commits the object it self with events"
-categories: Datamodel
-prio: 1
-rulenumber: 10
-rulename: AvoidCommitInBeforeAndAfterCommitAction
-ruleset: Error
+title:  "Avoid commit in before and after commit action  "
+rulenumber: 3
+impact_prio: 1
+effort_prio: 3
+characteristic: Reliability
 
 ---
 

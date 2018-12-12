@@ -1,12 +1,11 @@
 ---
 
 layout: post
-title:  "Documents within module root that are not of type folder"
-categories: Modules
-prio: 4
-rulenumber: 36
-rulename: AvoidDocumentsInModuleRoot
-ruleset: Convention
+title:  "Avoid documents in module root"
+rulenumber: 6
+impact_prio: 3
+effort_prio: 5
+characteristic: Maintainability
 
 ---
 

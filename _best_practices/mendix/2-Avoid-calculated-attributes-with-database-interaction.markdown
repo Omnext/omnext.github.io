@@ -2,9 +2,9 @@
 
 layout: post
 title:  "Style property used"
+rulenumber: 13
 impact_prio: 5
 effort_prio: 4
-rulenumber: 13
 characteristic: Maintainability
 
 ---

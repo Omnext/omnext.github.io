@@ -11,7 +11,7 @@ layout: default
 	<ul>
 	{% assign sorted = (site.best_practices | sort: 'rulenumber') %}
     {% for best_practice in sorted %}
-		 <li style="display: flex;"> <a class="post-link" href="{{ best_practice.url | relative_url }}">{{ best_practice.rulenumber | escape_once }}. {{ best_practice.categories | escape_once }} - {{ best_practice.title | escape_once }}</a>&nbsp;&nbsp;&nbsp;<a class="icon icon--github" href="https://github.com/Omnext/omnext.github.io/blob/master/{{ best_practice.path | escape_once }}" target="_blank">{% include icon-github.svg %}</a></li>
+		 <li style="display: flex;"> <a class="post-link" href="{{ best_practice.url | relative_url }}">{{ best_practice.rulenumber | escape_once }}. {{ best_practice.characteristic | escape_once }} - {{ best_practice.title | escape_once }}</a>&nbsp;&nbsp;&nbsp;<a class="icon icon--github" href="https://github.com/Omnext/omnext.github.io/blob/master/{{ best_practice.path | escape_once }}" target="_blank">{% include icon-github.svg %}</a></li>
 	{% endfor %}
 	</ul>
 </div>

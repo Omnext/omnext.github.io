@@ -1,11 +1,12 @@
 ---
 
 layout: post
-title:  "Avoid app store module changes"
 rulenumber: 1
+title:  "Avoid app store module changes"
+characteristic: Maintainability
 impact_prio: 3
 effort_prio: 2
-characteristic: Maintainability
+
 
 ---
 

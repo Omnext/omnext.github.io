@@ -5,7 +5,7 @@ title:  "Avoid app store module changes"
 rulenumber: 1
 impact prio: 3
 effort prio: 2
-ISO-25010 characteristic: Maintainability
+characteristic: Maintainability
 
 ---
 

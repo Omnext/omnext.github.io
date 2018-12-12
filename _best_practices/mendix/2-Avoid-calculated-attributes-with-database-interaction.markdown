@@ -5,7 +5,7 @@ title:  "Avoid calculated attributes with database interaction"
 rulenumber: 2
 impact_prio: 2
 effort_prio: 3
-characteristic: performance
+characteristic: Performance
 
 ---
 

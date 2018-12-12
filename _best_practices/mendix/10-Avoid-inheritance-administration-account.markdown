@@ -1,12 +1,11 @@
 ---
 
 layout: post
-title:  "Inheritance from Administration.Account"
-categories: Datamodel
-prio: 4
-rulenumber: 5
-rulename: AvoidInheritanceAdministrationAccount
-ruleset: Performance
+title:  "Avoid inheritance administration account"
+rulenumber: 10
+impact_prio: 4
+effort_prio: 4
+characteristic: Performance
 
 ---
 

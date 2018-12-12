@@ -1,12 +1,11 @@
 ---
 
 layout: post
-title:  "Amount of cross module associations > 3 to another module (check per module!)"
-categories: Datamodel
-prio: 4
+title:  "Avoid excesive cross module associations"
 rulenumber: 9
-rulename: AvoidExcessiveCrossModuleAssociations
-ruleset: Reuseability
+impact_prio: 3
+effort_prio: 4
+characteristic: Maintainability
 
 ---
 

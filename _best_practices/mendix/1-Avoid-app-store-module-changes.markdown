@@ -3,8 +3,8 @@
 layout: post
 title:  "Avoid app store module changes"
 rulenumber: 1
-impact prio: 3
-effort prio: 2
+impact_prio: 3
+effort_prio: 2
 characteristic: Maintainability
 
 ---

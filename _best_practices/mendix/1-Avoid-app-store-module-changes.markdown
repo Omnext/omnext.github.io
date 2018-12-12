@@ -1,12 +1,11 @@
 ---
 
 layout: post
-title:  "App store module changed"
-categories: Modules
-prio: 2
-rulenumber: 37
-rulename: AvoidAppStoreModuleChanges
-ruleset: Maintainability
+title:  "Avoid app store module changes"
+rulenumber: 1
+impact prio: 3
+effort prio: 2
+ISO-25010 characteristic: Maintainability
 
 ---
 

@@ -1,11 +1,11 @@
 ---
 
 layout: post
-title:  "Style property used"
-rulenumber: 36
-impact_prio: 5
-effort_prio: 4
-characteristic: Maintainability
+title:  "Avoid calculated attributes with database interaction"
+rulenumber: 2
+impact_prio: 2
+effort_prio: 3
+characteristic: performance
 
 ---
 

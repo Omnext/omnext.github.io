@@ -1,12 +1,11 @@
 ---
 
 layout: post
+rulenumber:3
 title:  "Microflow attributes with database interaction"
-categories: Datamodel
-prio: 2
-rulenumber: 3
-rulename: AvoidCalculatedAttributesWithDatabaseInteraction
-ruleset: Performance
+characteristic: Performance
+impact_prio: 2
+effort_prio: 3
 
 ---
 

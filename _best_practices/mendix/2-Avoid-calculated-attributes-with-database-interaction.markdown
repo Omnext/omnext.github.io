@@ -2,11 +2,10 @@
 
 layout: post
 title:  "Style property used"
-categories: Forms
-prio: 5
+impact_prio: 5
+effort_prio: 4
 rulenumber: 13
-rulename: StylePropertyUsed
-ruleset: Maintainability
+characteristic: Maintainability
 
 ---
 

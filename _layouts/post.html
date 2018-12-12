@@ -12,8 +12,10 @@ layout: default
   </div>
   
   <h6>Domain: {{ page.categories | escape_once }} | Priority: {{ page.prio | escape_once }}</h6>
-  <h6>Rulename: {{ page.rulename | escape_once }}</h6>
-  <h6>Ruleset: {{ page.ruleset | escape_once }}</h6>
+  <h6>Rulename: {{ page.title | escape_once }}</h6>
+  <h6>Ruleset: {{ page.characteristic | escape_once }}</h6>
+  <h6>Ruleset: {{ page.impact_prio | escape_once }}</h6>
+   <h6>Ruleset: {{ page.effort_prio | escape_once }}</h6>
   <h6>Contribute: <a href="https://github.com/Omnext/omnext.github.io/blob/master/{{ page.path | escape_once }}">https://github.com/Omnext/omnext.github.io/blob/master/{{ page.path | escape_once }}</a></h6>
   
 </article>

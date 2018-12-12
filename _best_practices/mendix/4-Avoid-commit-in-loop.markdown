@@ -1,12 +1,11 @@
 ---
 
 layout: post
-title:  "Commit actions with a loop"
-categories: Microflows
-prio: 3
-rulenumber: 29
-rulename: AvoidCommitInLoop
-ruleset: Performance
+title:  "Avoid commit in loop  "
+rulenumber: 4
+impact_prio: 3
+effort_prio: 5
+characteristic: Performance
 
 ---
 

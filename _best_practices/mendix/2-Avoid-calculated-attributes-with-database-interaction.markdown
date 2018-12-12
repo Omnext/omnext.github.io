@@ -1,11 +1,12 @@
 ---
 
 layout: post
-rulenumber:3
-title:  "Microflow attributes with database interaction"
-characteristic: Performance
-impact_prio: 2
-effort_prio: 3
+title:  "Style property used"
+categories: Forms
+prio: 5
+rulenumber: 13
+rulename: StylePropertyUsed
+ruleset: Maintainability
 
 ---
 

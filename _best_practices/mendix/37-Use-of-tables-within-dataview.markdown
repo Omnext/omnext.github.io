@@ -1,12 +1,11 @@
 ---
 
 layout: post
-title:  "Use of tables within dataview"
-categories: Forms
-prio: 5
-rulenumber: 12
-rulename: UseOfTablesWithinDataview
-ruleset: Usability
+rulenumber: 37
+title:  "Use of tables within data view"
+characteristic: Maintainability
+impact_prio: 5
+effort_prio: 4
 
 ---
 

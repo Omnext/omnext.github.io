@@ -1,12 +1,11 @@
 ---
 
 layout: post
-title:  "Use listviews over templategrids"
-categories: Forms
-prio: 
-rulenumber: 65
-rulename: 
-ruleset: 
+rulenumber: 
+title:  "Use list views over template grids"
+characteristic: 
+impact_prio: 
+effort_prio:
 
 ---
 

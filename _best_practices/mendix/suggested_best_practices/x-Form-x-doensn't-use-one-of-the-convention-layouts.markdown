@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title:  "Form x doensn't use one of the convention layouts"
+title:  "Form does not use convention layout"
 categories: Forms
 prio: 5
 rulenumber: 15

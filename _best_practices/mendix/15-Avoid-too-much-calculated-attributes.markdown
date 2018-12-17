@@ -1,12 +1,11 @@
 ---
 
 layout: post
-title:  "More than 2 microflow attributes within one domain object"
-categories: Datamodel
-prio: 4
-rulenumber: 4
-rulename: AvoidTooMuchCalculatedAttributes
-ruleset: Performance
+rulenumber: 15
+title:  "Avoid too much calculated attributes"
+characteristic: performance
+impact_prio: 4
+effort_prio: 3
 
 ---
 

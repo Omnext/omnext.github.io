@@ -1,12 +1,11 @@
 ---
 
 layout: post
-title:  "Localize set to true while using DateTime as date"
-categories: Datamodel
-prio: 
-rulenumber: 40
-rulename: 
-ruleset: 
+rulenumber: 
+title:  "Localize is set to true when using DateTime as Date"
+characteristic: 
+impact_prio: 
+effort_prio:
 
 ---
 

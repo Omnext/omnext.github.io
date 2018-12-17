@@ -1,12 +1,11 @@
 ---
 
 layout: post
-title:  "Result of a retrieve multiple times used in aggregates but not used elsewhere"
-categories: Microflows
-prio: 2
-rulenumber: 24
-rulename: UseOneAggregatePerRetrieve
-ruleset: Performance
+rulenumber: 38
+title:  "Use one aggregate per retrieve"
+characteristic: Performance
+impact_prio: 2
+effort_prio: 3
 
 ---
 

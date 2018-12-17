@@ -1,12 +1,11 @@
 ---
 
 layout: post
-title:  "Entity x misses folder"
-categories: Modules
-prio: 4
-rulenumber: 33
-rulename: MissingFolderForEntity
-ruleset: Convention
+rulenumber: 23
+title:  "Missing folder for entity"
+characteristic: Maintainability
+impact_prio: 4
+effort_prio: 5
 
 ---
 

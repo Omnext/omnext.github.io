@@ -1,12 +1,11 @@
 ---
 
 layout: post
-title:  "Seperate maintainance and super user rights"
-categories: Datamodel
-prio: 
-rulenumber: 43
-rulename: 
-ruleset: 
+rulenumber: 
+title:  "Seperate maintenance and super user rights"
+characteristic: 
+impact_prio: 
+effort_prio:
 
 ---
 

@@ -1,0 +1,17 @@
+---
+
+layout: post
+rulenumber: 22
+title:  "Microflow nesting too deep"
+characteristic: Maintainability
+impact_prio: 3
+effort_prio: 3
+
+
+---
+
+**Why**
+Nesting a lot of Microflows decreases maintainability.
+
+**How to fix**
+Consolidate Microflows.

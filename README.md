@@ -33,10 +33,10 @@ The OMNEXT STAY FIT Program for Mendix:
 - Automated Peer Review to improve the knowledge and quality of your developers.
 
 **Categories of Standards & Guidelines**
-- Performance: Checks on common problems which slow down or paralyse apps.
-- Security: checks completeness of security model (access rules) and on known leaks.
-- Maintainability: checks best practices regarding data model, modularity.
-- Conventions: checks model on complying folder and naming conventions.
+- Maintainability
+- Performance
+- Reliability
+- Security
 
 **Typical usage scenario**
 Any organisation where the quality of their applications and developers is key.
@@ -45,14 +45,12 @@ Any organisation where the quality of their applications and developers is key.
 - Dashboard overview with all the key metrics for the quality of all your applications.
 - Quality review of the application based on ISO 25010
 - Review your application versus the Mendix Best Practices – Standards & Guidelines
-	- Performance
-	- Security
 	- Maintainability
-	- Conventions
+	- Performance
+	- Reliability
+	- Security
 - Trend Analysis
 - Visual dependencies analysis (application & module level)
-- Identify clones in your application
-- Annotations analysis
 
 **Requires**
 Mendix version 6.5 or higher

@@ -1,12 +1,11 @@
 ---
 
 layout: post
-title:  "Multiple inheritance"
-categories: Datamodel
-prio: 3
-rulenumber: 7
-rulename: AvoidMultipleInheritance
-ruleset: Performance
+rulenumber: 13
+title:  "Avoid Multiple Inheritance"
+characteristic: Performance
+impact_prio: 2
+effort_prio: 2
 
 ---
 

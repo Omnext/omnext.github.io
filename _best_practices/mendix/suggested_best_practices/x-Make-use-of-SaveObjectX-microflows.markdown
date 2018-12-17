@@ -1,12 +1,11 @@
 ---
 
 layout: post
-title:  "Make use of SaveObjectX microflows"
-categories: Datamodel
-prio: 
-rulenumber: 50
-rulename: 
-ruleset: 
+rulenumber: 
+title:  "Use SaveObjectX microflows"
+characteristic: 
+impact_prio: 
+effort_prio:
 
 ---
 

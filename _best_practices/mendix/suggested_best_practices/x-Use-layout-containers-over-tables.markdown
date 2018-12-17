@@ -1,12 +1,11 @@
 ---
 
 layout: post
-title:  "Use layout grids over tables"
-categories: Layout
-prio:
-rulenumber: 63
-rulename:
-ruleset:
+rulenumber: 
+title:  "use layout containsers over tables"
+characteristic: 
+impact_prio: 
+effort_prio:
 
 ---
 

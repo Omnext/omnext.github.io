@@ -1,12 +1,11 @@
 ---
 
 layout: post
-title:  "Generate document used"
-categories: Microflows
-prio: 4
-rulenumber: 30
-rulename: OutdatedGenerateDocumentUsed
-ruleset: Maintainability
+rulenumber: 29
+title:  "Outdated generate document used"
+characteristic: Maintainability
+impact_prio: 4
+effort_prio: 1
 
 ---
 

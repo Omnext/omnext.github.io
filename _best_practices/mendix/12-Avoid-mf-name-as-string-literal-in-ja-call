@@ -1,0 +1,16 @@
+---
+
+layout: post
+rulenumber: 12
+title:  "Avoid MF name as string literal in JA call"
+characteristic: Maintainability
+impact_prio: 3
+effort_prio: 3
+
+
+---
+
+**Why**
+
+
+**How to fix**

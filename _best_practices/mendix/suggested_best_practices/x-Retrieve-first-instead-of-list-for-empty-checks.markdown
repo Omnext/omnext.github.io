@@ -1,12 +1,11 @@
 ---
 
 layout: post
+rulenumber: 
 title:  "Retrieve first instead of list for empty checks"
-categories: Microflows
-prio:
-rulenumber: 46
-rulename:
-ruleset:
+characteristic: 
+impact_prio: 
+effort_prio:
 
 ---
 

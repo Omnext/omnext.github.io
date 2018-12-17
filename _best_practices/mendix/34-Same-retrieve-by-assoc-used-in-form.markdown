@@ -1,12 +1,11 @@
 ---
 
 layout: post
-title:  "Multiple nested dataviews with same retrieve by association"
-categories: Forms
-prio: 3
-rulenumber: 17
-rulename: SameRetrieveByAssocUsedInForm
-ruleset: Performance
+rulenumber: 34
+title:  "Same retrieve by associated used in form"
+characteristic: Performance
+impact_prio: 3
+effort_prio: 3
 
 ---
 

@@ -1,12 +1,11 @@
 ---
 
 layout: post
+rulenumber: 
 title:  "Form does not use convention layout"
-categories: Forms
-prio: 5
-rulenumber: 15
-rulename: 
-ruleset: Maintainability
+characteristic: 
+impact_prio: 
+effort_prio:
 
 ---
 

@@ -1,0 +1,17 @@
+---
+
+layout: post
+rulenumber: 17
+title:  "Conditional visibility nesting too deep"
+characteristic: Maintainability
+impact_prio: 2
+effort_prio: 3
+
+
+---
+
+**Why**
+When the conditional visibility nesting is too deep it becomes very hard to understand under which conditions which screen will be visible to the user. In other words, maintaining and understanding the 'model' will become very hard.
+
+**How to fix**
+Try not to make the conditional settings 'too deep'

@@ -1,12 +1,11 @@
 ---
 
 layout: post
-title:  "Inheritance except from system module"
-categories: Datamodel
-prio: 4
-rulenumber: 8
-rulename: AvoidInheritanceExceptSystemModule
-ruleset: Performance
+rulenumber: 11
+title:  "Avoid Inheritance Except System Module"
+characteristic: Performance
+impact_prio: 4
+effort_prio: 3
 
 ---
 

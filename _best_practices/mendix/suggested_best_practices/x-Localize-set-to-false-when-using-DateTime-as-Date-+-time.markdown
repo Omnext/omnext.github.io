@@ -1,12 +1,11 @@
 ---
 
 layout: post
-title:  "Localize set to false when using DateTime as Date + time"
-categories: Datamodel
-prio: 
-rulenumber: 41
-rulename: 
-ruleset: 
+rulenumber: 
+title:  "Localize set to false when using DateTime as Date + Time"
+characteristic: 
+impact_prio: 
+effort_prio:
 
 ---
 

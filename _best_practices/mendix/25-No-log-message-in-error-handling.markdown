@@ -1,12 +1,11 @@
 ---
 
 layout: post
-title:  "Error handling where the first action doesn’t equal a log message"
-categories: Microflows
-prio: 2
 rulenumber: 25
-rulename: NoLogMessageInErrorHandling
-ruleset: Error handling
+title:  "No log message in error handling"
+characteristic: Reliability
+impact_prio: 2
+effort_prio: 4
 
 ---
 

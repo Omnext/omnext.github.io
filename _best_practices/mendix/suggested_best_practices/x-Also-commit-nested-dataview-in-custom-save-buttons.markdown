@@ -1,12 +1,11 @@
 ---
 
 layout: post
-title:  "Also commit nested dataview in custom save buttons"
-categories: Datamodel
-prio:
-rulenumber: 53
-rulename:
-ruleset:
+rulenumber: 
+title:  "Commit nested dataview in custom save buttons"
+characteristic: 
+impact_prio: 
+effort_prio:
 
 ---
 

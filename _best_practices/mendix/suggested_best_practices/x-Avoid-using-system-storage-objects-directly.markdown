@@ -1,12 +1,11 @@
 ---
 
 layout: post
-title:  "Avoid using system storage objects directly"
-categories: Datamodel
-prio: 
-rulenumber: 42
-rulename: 
-ruleset: 
+rulenumber: 
+title:  "Avoid system storage objects directly"
+characteristic: 
+impact_prio: 
+effort_prio:
 
 ---
 

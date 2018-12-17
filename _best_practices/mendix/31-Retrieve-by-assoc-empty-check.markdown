@@ -1,12 +1,11 @@
 ---
 
 layout: post
-title:  "Retrieve by association combined with check on object != empty"
-categories: Microflows
-prio: 4
-rulenumber: 26
-rulename: RetrieveByAssocEmptyCheck
-ruleset: Performance
+rulenumber: 31
+title:  "Retrieve by associated empty check"
+characteristic: Performance
+impact_prio: 4
+effort_prio: 4
 
 ---
 

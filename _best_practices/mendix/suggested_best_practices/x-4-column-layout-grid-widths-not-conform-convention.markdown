@@ -1,12 +1,11 @@
 ---
 
 layout: post
-title:  "4 column layout grid widths not conform convention"
-categories: Forms
-prio: 5
-rulenumber: 18
-rulename: Wrong4ColumnLayoutGrid
-ruleset: Convention
+rulenumber: 
+title:  "Avoid 4 colomn grid withs"
+characteristic: 
+impact_prio: 
+effort_prio: 
 
 ---
 

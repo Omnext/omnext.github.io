@@ -1,0 +1,15 @@
+---
+
+layout: post
+rulenumber: 20
+title:  "Exclusive split must have caption"
+characteristic: Maintainability
+impact_prio: 4
+effort_prio: 4
+
+
+---
+
+**Why**
+
+**How to fix**

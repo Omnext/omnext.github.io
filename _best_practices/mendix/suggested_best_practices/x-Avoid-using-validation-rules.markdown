@@ -1,12 +1,11 @@
 ---
 
 layout: post
+rulenumber: 
 title:  "Avoid using validation rules"
-categories: Datamodel
-prio: 
-rulenumber: 39
-rulename: 
-ruleset: 
+characteristic: 
+impact_prio: 
+effort_prio:
 
 ---
 

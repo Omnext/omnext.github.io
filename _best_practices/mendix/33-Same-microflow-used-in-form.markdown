@@ -1,12 +1,11 @@
 ---
 
 layout: post
-title:  "Multiple dataviews with same datasource microflow within one form"
-categories: Forms
-prio: 3
-rulenumber: 16
-rulename: SameMicroflowUsedInForm
-ruleset: Performance
+rulenumber: 33
+title:  "Same microflow used in form"
+characteristic: Performance
+impact_prio: 3
+effort_prio: 3
 
 ---
 

@@ -1,12 +1,11 @@
 ---
 
 layout: post
-title:  "Don't generate related objects in events"
-categories: Datamodel
-prio:
-rulenumber: 45
-rulename:
-ruleset:
+rulenumber: 
+title:  "Avoid to generate related objects in events"
+characteristic: 
+impact_prio: 
+effort_prio:
 
 ---
 

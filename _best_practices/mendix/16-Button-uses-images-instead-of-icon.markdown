@@ -1,12 +1,11 @@
 ---
 
 layout: post
+rulenumber: 16
 title:  "Button uses image instead of icon"
-categories: Forms
-prio: 4
-rulenumber: 20
-rulename: ButtonUsesImageInsteadOfIcon
-ruleset: Convention
+characteristic: Maintainability
+impact_prio: 4
+effort_prio: 5
 
 ---
 

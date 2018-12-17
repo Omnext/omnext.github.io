@@ -1,12 +1,11 @@
 ---
 
 layout: post
+rulenumber: 
 title:  "Delete behaviour in place"
-categories: Datamodel
-prio: 
-rulenumber: 38
-rulename: 
-ruleset: 
+characteristic: 
+impact_prio: 
+effort_prio:
 
 ---
 

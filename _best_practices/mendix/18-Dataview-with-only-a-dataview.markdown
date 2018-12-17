@@ -1,12 +1,11 @@
 ---
 
 layout: post
-title:  "Dataview with only child = dataview"
-categories: Forms
-prio: 4
-rulenumber: 19
-rulename: DataviewWithOnlyADataview
-ruleset: Performance
+rulenumber: 18
+title:  "Data view with only a data view"
+characteristic: Performance
+impact_prio: 4
+effort_prio: 3
 
 ---
 

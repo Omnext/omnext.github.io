@@ -1,12 +1,11 @@
 ---
 
 layout: post
-title:  "Don't make MxAdmin super user"
-categories: Datamodel
-prio:
-rulenumber: 57
-rulename:
-ruleset:
+rulenumber: 
+title:  "Avoid MxAdmin super user"
+characteristic: 
+impact_prio: 
+effort_prio:
 
 ---
 

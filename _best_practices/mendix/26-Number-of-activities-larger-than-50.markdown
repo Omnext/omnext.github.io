@@ -1,12 +1,11 @@
 ---
 
 layout: post
-title:  "Bigger than 50 activities"
-categories: Microflows
-prio: 4
-rulenumber: 27
-rulename: NumberOfActivities
-ruleset: Maintainability
+rulenumber: 26
+title:  "ANumber of activities (>50)"
+characteristic: Reliability
+impact_prio: 3
+effort_prio: 1
 
 ---
 

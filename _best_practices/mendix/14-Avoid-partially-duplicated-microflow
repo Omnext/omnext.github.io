@@ -1,0 +1,17 @@
+---
+
+layout: post
+rulenumber: 14
+title:  "Avoid partially duplicated microflows"
+characteristic: Maintainability
+impact_prio: 2
+effort_prio: 3
+
+
+---
+
+**Why**
+Avoid the exact duplication of microflows as duplicated significantly decrease the maintainability.
+
+**How to fix**
+Make use of sub-microflows if the same functionality is being used more than once instead of creatind duplicates of the microflow.

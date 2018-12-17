@@ -1,12 +1,11 @@
 ---
 
 layout: post
-title:  "Complex check"
-categories: Microflows
-prio: 4
-rulenumber: 32
-rulename: ExcessiveIfThenStatements
-ruleset: Convention
+rulenumber: 
+title:  "Avoid complexity"
+characteristic: 
+impact_prio: 
+effort_prio:
 
 ---
 

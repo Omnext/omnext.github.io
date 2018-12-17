@@ -1,0 +1,15 @@
+---
+
+layout: post
+rulenumber: 19
+title:  "Domain entity clone"
+characteristic: Maintainability
+impact_prio: 3
+effort_prio: 3
+
+
+---
+
+**Why**
+
+**How to fix**

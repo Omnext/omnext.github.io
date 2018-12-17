@@ -1,12 +1,11 @@
 ---
 
 layout: post
-title:  "No more that 35 attributes in an entity"
-categories: Datamodel
-prio: 3
-rulenumber: 2
-rulename: NumberOfAttributes
-ruleset: Maintainability
+rulenumber: 
+title:  "Number of attributes (>35)"
+characteristic: 
+impact_prio: 
+effort_prio:
 
 ---
 

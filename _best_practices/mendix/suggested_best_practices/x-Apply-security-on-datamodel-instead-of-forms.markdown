@@ -1,12 +1,11 @@
 ---
 
 layout: post
-title:  "Apply security on datamodel instead of forms"
-categories: Datamodel
-prio:
-rulenumber: 55
-rulename:
-ruleset:
+rulenumber: 
+title:  "Security on data model instead of forms"
+characteristic: 
+impact_prio: 
+effort_prio:
 
 ---
 

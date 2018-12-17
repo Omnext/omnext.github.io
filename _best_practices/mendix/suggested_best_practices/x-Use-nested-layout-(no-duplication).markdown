@@ -1,12 +1,11 @@
 ---
 
 layout: post
+rulenumber: 
 title:  "Use nested layout (no duplication)"
-categories: Layout
-prio: 
-rulenumber: 64
-rulename: 
-ruleset: 
+characteristic: 
+impact_prio: 
+effort_prio:
 
 ---
 

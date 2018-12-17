@@ -1,12 +1,11 @@
 ---
 
 layout: post
-title:  "Entity associatons that violates naming conventions]"
-categories: Datamodel
-prio: 5
-rulenumber: 6
-rulename: InconsistentAssociationName
-ruleset: Convention
+rulenumber: 21
+title:  "Inconsistant association name"
+characteristic: Maintainability
+impact_prio: 5
+effort_prio: 4
 
 ---
 

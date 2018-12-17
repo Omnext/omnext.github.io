@@ -1,12 +1,11 @@
 ---
 
 layout: post
-title:  "Don't use validation feedback within event microflows"
-categories: Microflows
-prio:
-rulenumber: 48
-rulename:
-ruleset:
+rulenumber: 
+title:  "Avoid use validation feedback within event microflows"
+characteristic: 
+impact_prio: 
+effort_prio:
 
 ---
 

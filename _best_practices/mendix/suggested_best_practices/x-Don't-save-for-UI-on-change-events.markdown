@@ -1,12 +1,11 @@
 ---
 
 layout: post
-title:  "Don't save for UI on change events"
-categories: Forms
-prio: 
-rulenumber: 51
-rulename: 
-ruleset: 
+rulenumber: 
+title:  "Avoid save for UI on change events"
+characteristic: 
+impact_prio: 
+effort_prio:
 
 ---
 

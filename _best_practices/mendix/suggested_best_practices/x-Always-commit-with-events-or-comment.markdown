@@ -1,12 +1,11 @@
 ---
 
 layout: post
-title:  "Always commit with events or comment"
-categories: Datamodel
-prio: 
-rulenumber: 52
-rulename: 
-ruleset: 
+rulenumber: 
+title:  "Commit with events or coment"
+characteristic: 
+impact_prio: 
+effort_prio:
 
 ---
 

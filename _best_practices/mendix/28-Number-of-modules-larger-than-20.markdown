@@ -1,12 +1,11 @@
 ---
 
 layout: post
-title:  "More than 20 modules in project"
-categories: Modules
-prio: 3
-rulenumber: 35
-rulename: NumberOfModules
-ruleset: Maintainability
+rulenumber: 28
+title:  "Number of modules (>20)"
+characteristic: Maintainability
+impact_prio: 3
+effort_prio: 1
 
 ---
 

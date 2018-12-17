@@ -1,12 +1,11 @@
 ---
 
 layout: post
-title:  "Entity x's folder missing concention subfolders"
-categories: Modules
-prio: 4
-rulenumber: 34
-rulename: MissingSubfoldersForEntity
-ruleset: Convention
+rulenumber: 24
+title:  "Missing sub folders for entity"
+characteristic: Maintainability
+impact_prio: 4
+effort_prio: 5
 
 ---
 

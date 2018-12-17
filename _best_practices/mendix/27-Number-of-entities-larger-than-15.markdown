@@ -1,12 +1,10 @@
 ---
-
 layout: post
-title:  "No more than 15 persistent entities within one domain model"
-categories: Datamodel
-prio: 3
-rulenumber: 1
-rulename: NumberOfEntities
-ruleset: Maintainability
+rulenumber: 27
+title:  "Number of entities (>15)"
+characteristic: Maintainability
+impact_prio: 3
+effort_prio: 2
 
 ---
 

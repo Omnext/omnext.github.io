@@ -1,12 +1,11 @@
 ---
 
 layout: post
-title:  "Reference selector with editable Never"
-categories: Forms
-prio: 2
-rulenumber: 21
-rulename: ReferenceSelectorWithEditableNever
-ruleset: Performance
+rulenumber: 30
+title:  "Reference selector with editable never"
+characteristic: Performance
+impact_prio: 2
+effort_prio: 4
 
 ---
 

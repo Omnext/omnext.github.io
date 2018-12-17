@@ -1,12 +1,11 @@
 ---
 
 layout: post
-title:  "Entities with only blank xpath access rules"
-categories: Datamodel
-prio: 2
-rulenumber: 11
-rulename: 
-ruleset: Security
+rulenumber: 
+title:  "Avoid entities with only blank xpath access rules"
+characteristic: 
+impact_prio: 
+effort_prio:
 
 ---
 

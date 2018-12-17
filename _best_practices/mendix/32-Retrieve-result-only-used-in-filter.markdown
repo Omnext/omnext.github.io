@@ -1,12 +1,11 @@
 ---
 
 layout: post
-title:  "Result of retrieve only used in filter"
-categories: Microflows
-prio: 2
-rulenumber: 23
-rulename: RetrieveResultOnlyUsedInFilter
-ruleset: Performance
+rulenumber: 32
+title:  "Retrieve result only used in filter"
+characteristic: Performance
+impact_prio: 2
+effort_prio: 4
 
 ---
 

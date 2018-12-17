@@ -1,12 +1,11 @@
 ---
 
 layout: post
+rulenumber: 
 title:  "Avoid overlapping module role security"
-categories: Datamodel
-prio:
-rulenumber: 59
-rulename:
-ruleset:
+characteristic: 
+impact_prio: 
+effort_prio:
 
 ---
 

@@ -1,12 +1,11 @@
 ---
 
 layout: post
+rulenumber: 
 title:  "Use batches for large list processing"
-categories: Microflows
-prio: 
-rulenumber: 54
-rulename: 
-ruleset: 
+characteristic: 
+impact_prio: 
+effort_prio:
 
 ---
 

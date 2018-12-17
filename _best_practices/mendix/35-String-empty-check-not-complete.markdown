@@ -1,12 +1,11 @@
 ---
 
 layout: post
-title:  "String empty check not completed"
-categories: Microflows
-prio: 3
-rulenumber: 31
-rulename: StringEmptyCheckNotComplete
-ruleset: Error
+rulenumber: 35
+title:  "String empty check not complete"
+characteristic: Reliability
+impact_prio: 1
+effort_prio: 3
 
 ---
 

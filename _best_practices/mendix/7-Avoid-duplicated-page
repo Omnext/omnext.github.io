@@ -1,7 +1,7 @@
 ---
 
 layout: post
-rulenumber: 7
+rulenumber: 1
 title:  "Avoid duplicated pages"
 characteristic: Maintainability
 impact_prio: 2

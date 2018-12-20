@@ -1,11 +1,12 @@
 ---
 
 layout: post
-rulenumber: 
-title:  "Avoid to generate related objects in events"
-characteristic: 
-impact_prio: 
-effort_prio:
+rulenumber: 7
+title:  "Avoid duplicated pages"
+characteristic: Maintainability
+impact_prio: 2
+effort_prio: 3
+
 
 ---
 

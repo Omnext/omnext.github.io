@@ -4,7 +4,7 @@ layout: post
 rulenumber: 14
 title:  "Avoid partially duplicated microflows"
 characteristic: Maintainability
-impact_prio: 2
+impact_prio: 3
 effort_prio: 3
 
 

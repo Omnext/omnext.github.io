@@ -16,23 +16,3 @@ Please avoid changing app store modules, so you can more easily upgrade in a lat
 ![37.png]({{ site.url }}/assets/37.png)
 
 **How to fix**
-
-
-
-
----
-
-layout: post
-rulenumber: 1
-title:  "Avoid duplicated pages"
-characteristic: Maintainability
-impact_prio: 2
-effort_prio: 3
-
-
----
-
-**Why**
-Avoid the duplication of pages as duplicated will significantly decrease maintainability.
-
-**How to fix**
